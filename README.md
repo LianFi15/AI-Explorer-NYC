@@ -40,7 +40,7 @@ At last, run the streamlit app and enjoy!
 ```bash
   streamlit run main.py
 ```
-### Setting Up Streamlit App Theme and Colors
+## Setting Up Streamlit App Theme and Colors
 Once the Streamlit app is running, ensure that the 'app theme, colors and fonts' option is set to light. Otherwise, the buttons and font may not be visible.
 
 Here's how to do it:
