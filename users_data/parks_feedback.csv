@@ -1,0 +1,155 @@
+ID,name,feedback,latitude,longitude,ticket_price
+1,Prospect Park,2,40.6602,-73.9681,0
+2,Central Park,4,40.7851,-73.9683,0
+3,Brooklyn Heights,5,40.6969,-73.9937,0
+4,Bryant Park,5,40.7536,-73.9832,0
+5,Flushing Meadows-Corona Park,4,40.745,-73.8448,0
+6,Washington Square Park,5,40.7308,-73.9973,0
+7,The High Line,2,40.748,-74.0048,0
+8,Riverside Park,1,40.787,-73.9754,0
+9,Hudson River Park,2,40.7322,-74.008,0
+10,Prospect Park,4,40.6602,-73.9681,0
+11,Central Park,4,40.7851,-73.9683,0
+12,Brooklyn Heights,2,40.6969,-73.9937,0
+13,Bryant Park,1,40.7536,-73.9832,0
+14,Flushing Meadows-Corona Park,5,40.745,-73.8448,0
+15,Washington Square Park,2,40.7308,-73.9973,0
+16,The High Line,1,40.748,-74.0048,0
+17,Riverside Park,3,40.787,-73.9754,0
+18,Hudson River Park,3,40.7322,-74.008,0
+19,Prospect Park,5,40.6602,-73.9681,0
+21,Riverside Park,5,40.787,-73.9754,0
+21,Brooklyn Heights,4,40.6969,-73.9937,0
+21,Riverside Park,5,40.787,-73.9754,0
+21,The High Line,4,40.748,-74.0048,0
+21,The High Line,4,40.748,-74.0048,0
+21,The High Line,4,40.748,-74.0048,0
+21,Riverside Park,4,40.787,-73.9754,0
+21,Riverside Park,4,40.787,-73.9754,0
+21,Washington Square Park,0,40.7308,-73.9973,0
+25,Prospect Park,3,40.6602,-73.9681,0
+25,Prospect Park,3,40.6602,-73.9681,0
+25,Prospect Park,4,40.6602,-73.9681,0
+25,Central Park,1,40.7851,-73.9683,0
+25,Central Park,1,40.7851,-73.9683,0
+25,Central Park,0,40.7851,-73.9683,0
+21,Prospect Park,3,40.6602,-73.9681,0
+21,Prospect Park,0,40.6602,-73.9681,0
+21,Brooklyn Heights,0,40.6969,-73.9937,0
+21,Central Park,5,40.7851,-73.9683,0
+21,Riverside Park,3,40.787,-73.9754,0
+758590,Prospect Park,2,40.6602,-73.9681,0
+758590,Prospect Park,2,40.6602,-73.9681,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Flushing Meadows-Corona Park,1,40.745,-73.8448,0
+123321,Washington Square Park,1,40.7308,-73.9973,0
+123321,Riverside Park,1,40.787,-73.9754,0
+123321,Prospect Park,1,40.6602,-73.9681,0
+123321,Central Park,1,40.7851,-73.9683,0
+123321,Brooklyn Heights,1,40.6969,-73.9937,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Prospect Park,1,40.6602,-73.9681,0
+123321,Central Park,1,40.7851,-73.9683,0
+123321,Brooklyn Heights,1,40.6969,-73.9937,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+12344321,Prospect Park,2,40.6602,-73.9681,0
+12344321,Prospect Park,2,40.6602,-73.9681,0
+12344321,Central Park,2,40.7851,-73.9683,0
+12344321,Corlears Hook Park,2,40.7124,-73.9778,0
+12344321,Corlears Hook Park,2,40.7124,-73.9778,0
+12344321,Prospect Park,1,40.6602,-73.9681,0
+12344321,Prospect Park,1,40.6602,-73.9681,0
+12344321,Van Cortlandt Park,1,40.889,-73.8987,0
+12344321,Riverside Park,2,40.787,-73.9754,0
+12344321,Riverside Park,2,40.787,-73.9754,0
+12344321,Central Park,2,40.7851,-73.9683,0
+12344321,Brooklyn Heights,2,40.6969,-73.9937,0
+12344321,Brooklyn Heights,1,40.6969,-73.9937,0
+12344321,Hudson River Greenway,1,40.7563,-74.0104,0
+12344321,Brooklyn Heights,1,40.6969,-73.9937,0
+12344321,Hudson River Greenway,1,40.7563,-74.0104,0
+12344321,Prospect Park,1,40.6602,-73.9681,0
+12344321,Central Park,1,40.7851,-73.9683,0
+12344321,Prospect Park,1,40.6602,-73.9681,0
+12344321,Central Park,1,40.7851,-73.9683,0
+12344321,Jacob Riis Park,1,40.5676,-73.8894,0
+12344321,Thomas Jefferson Park,1,40.7922,-73.9382,0
+123321,Central Park,1,40.7851,-73.9683,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Battery Park,1,40.7033,-74.017,0
+123321,Brooklyn Heights,2,40.6969,-73.9937,0
+123321,Prospect Park,2,40.6602,-73.9681,0
+123321,Riverside Park,2,40.787,-73.9754,0
+12344321,Hudson River Greenway,2,40.7563,-74.0104,0
+12344321,Hudson River Greenway,2,40.7563,-74.0104,0
+12344321,Prospect Park,2,40.6602,-73.9681,0
+12344321,Prospect Park,2,40.6602,-73.9681,0
+12344321,East River State Park,2,40.7217,-73.964,0
+12344321,East River State Park,2,40.7217,-73.964,0
+12344321,Prospect Park,2,40.6602,-73.9681,0
+12344321,Prospect Park,2,40.6602,-73.9681,0
+12344321,Madison Square Park,2,40.742,-73.9887,0
+123321,Highbridge Park,2,40.8424,-73.9311,0
+123321,Highbridge Park,2,40.8424,-73.9311,0
+123321,Prospect Park,4,40.6602,-73.9681,0
+123321,Prospect Park,4,40.6602,-73.9681,0
+123321,Astoria Park,2,40.7794,-73.922,0
+123321,Bryant Park,3,40.7536,-73.9832,0
+123321,Bryant Park,3,40.7536,-73.9832,0
+123321,Union Square Park,2,40.7359,-73.9904,0
+123321,Bryant Park,3,40.7536,-73.9832,0
+123321,Bryant Park,5,40.7536,-73.9832,0
+123321,Bryant Park,5,40.7536,-73.9832,0
+123321,Bryant Park,5,40.7536,-73.9832,0
+123321,Bryant Park,5,40.7536,-73.9832,0
+123321,Bryant Park,5,40.7536,-73.9832,0
+123321,Bryant Park,5,40.7536,-73.9832,0
+123321,Bryant Park,5,40.7536,-73.9832,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Bryant Park,5,40.7536,-73.9832,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Bryant Park,1,40.7536,-73.9832,0
+123321,Bryant Park,0,40.7536,-73.9832,0
+123321,Battery Park City,5,40.7113,-74.0166,0
+123321,Bryant Park,0,40.7536,-73.9832,0
+123321,Battery Park City,5,40.7113,-74.0166,0
+123321,Bryant Park,4,40.7536,-73.9832,0
+123321,Bryant Park,3,40.7536,-73.9832,0
+9988,Prospect Park,5,40.6602,-73.9681,0
+9988,Prospect Park,5,40.6602,-73.9681,0
+9988,Prospect Park,5,40.6602,-73.9681,0
+9988,Prospect Park,5,40.6602,-73.9681,0
+9988,Prospect Park,5,40.6602,-73.9681,0
+9988,Prospect Park,5,40.6602,-73.9681,0
+9988,Prospect Park,5,40.6602,-73.9681,0
+9988,Prospect Park,5,40.6602,-73.9681,0
+12332111,Battery Park City,5,40.7113,-74.0166,0
+21,Hudson River Greenway,1,40.7563,-74.0104,0
+21,Staten Island Greenbelt,1,40.589,-74.1347,0
+21,Prospect Park,0,40.6602,-73.9681,0
+21,Central Park,1,40.7851,-73.9683,0
+21,Brooklyn Heights,1,40.6969,-73.9937,0
+21,Riverside Park,4,40.787,-73.9754,0
+21,Franklin D. Roosevelt Four Freedoms Park,5,40.7569,-73.9492,0
+21,Riverside Park,4,40.787,-73.9754,0
+21,Franklin D. Roosevelt Four Freedoms Park,5,40.7569,-73.9492,0
+21,Central Park,1,40.7851,-73.9683,0
+21,Riverside Park,4,40.787,-73.9754,0
+21,Franklin D. Roosevelt Four Freedoms Park,5,40.7569,-73.9492,0
+21,Riverside Park,1,40.787,-73.9754,0
+21,Riverside Park,1,40.787,-73.9754,0
+21,Central Park,1,40.7851,-73.9683,0
+21,Riverside Park,1,40.787,-73.9754,0
+21,Riverside Park,1,40.787,-73.9754,0
+21,Riverside Park,1,40.787,-73.9754,0
+21,Riverside Park,1,40.787,-73.9754,0
+21,Riverside Park,1,40.787,-73.9754,0
+21,Riverside Park,1,40.787,-73.9754,0
+21,Forest Park,1,40.6993,-73.862,0
