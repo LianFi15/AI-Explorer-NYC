@@ -1,7 +1,7 @@
 
 ![Logo](logo1.gif)
 
-# AI Explorer NYC
+# 🌟 AI Explorer NYC 🌍
 
 Utilizing AI algorithms to craft personalized itineraries, considering diverse preferences and budgetary constraints for an enhanced travel experience
 
